@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\bin\Debug\trackbar_vjezba.exe.config
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\bin\Debug\trackbar_vjezba.exe
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\bin\Debug\trackbar_vjezba.pdb
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\obj\Debug\trackbar_vjezba.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\obj\Debug\trackbar_vjezba.Form1.resources
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\obj\Debug\trackbar_vjezba.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\obj\Debug\trackbar_vjezba.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\obj\Debug\trackbar_vjezba.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\obj\Debug\trackbar_vjezba.exe
+C:\Users\Ucenik\source\repos\trackbar_vjezba\trackbar_vjezba\obj\Debug\trackbar_vjezba.pdb
